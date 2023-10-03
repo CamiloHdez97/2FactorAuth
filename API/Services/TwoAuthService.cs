@@ -30,9 +30,6 @@ public class TwoAuthService : ITwoAuthService
         (_accessTokenTimeout, _refreshTokenTimeout) = GetTokenTimeout();
     }
 
-
-
-
     //Retornamos el codigo QR formateado en imagen png 
     public byte[] GetQrAsImg(ref User user){
 
@@ -42,7 +39,7 @@ public class TwoAuthService : ITwoAuthService
 
         }
 
-        var tfa = new TwoFactorAuth(_config["JWTSetting:Isser"],6,30,Algorithm.SHA256, new ImageChartsQrCodeProvider());
+        var tfa = new TwoFactorAuth(_config["JWTSetting:Issers"],6,30,Algorithm.SHA256, new ImageChartsQrCodeProvider());
         string secret = tfa.CreateSecret(160);
         
         user.TwoFactorSecret = secret;

@@ -93,3 +93,20 @@ C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\D
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Persistence\obj\Debug\net7.0\ref\Persistence.dll

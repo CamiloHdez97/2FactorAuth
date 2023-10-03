@@ -47,7 +47,7 @@ public class UserController : BaseApiController
     }
 
     
-    [HttpGet("img/id/{id}")]
+    [HttpGet("QR/id/{id}")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
 
@@ -71,7 +71,7 @@ public class UserController : BaseApiController
 
     }
 
-    [HttpGet("img/email/{email}")]
+    [HttpGet("QR/email/{email}")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
 
@@ -94,7 +94,7 @@ public class UserController : BaseApiController
 
     }
 
-    [HttpGet("verify")]
+    [HttpPost("QR/verify")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -115,7 +115,7 @@ public class UserController : BaseApiController
 
             if(isOk == true){
                 
-                return Ok($"Usuario {data.Id} Autenticado, con Key{data.Key}");
+                return Ok($"Id Usuario: {data.Id} \n Autenticado, con Key {data.Key}");
 
             }
             return Unauthorized();

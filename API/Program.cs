@@ -19,7 +19,7 @@ builder.Services.AddAplicationService();
 //Inject DB Context
 builder.Services.AddDbContext<ApiContext>(Options =>
 {
-    string connectionString = builder.Configuration.GetConnectionString("ConexMysql");
+    string connectionString = builder.Configuration.GetConnectionString("ConexApolo");
     Options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 }
 );

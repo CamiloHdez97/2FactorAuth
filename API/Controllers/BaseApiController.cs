@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
-[Route("api/QR/[controller]")]
+[Route("api/[controller]")]
 public class BaseApiController : ControllerBase {
 
 }

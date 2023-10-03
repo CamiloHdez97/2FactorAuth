@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Aplication\\Aplication.csproj": {}
+    "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Aplication\\Aplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Aplication\\Aplication.csproj": {
+    "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Aplication\\Aplication.csproj",
-        "packagesPath": "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Aplication\\obj\\",
+        "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Aplication\\Aplication.csproj",
+        "packagesPath": "C:\\Users\\APM01-042\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Camilo Hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj"
+              "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\Persistence.csproj"
+              "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -68,21 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj": {
+    "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\APM01-042\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Camilo Hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -135,21 +135,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\APM01-042\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Camilo Hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -161,8 +161,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Campus\\NetCore\\2FactorAuth\\Domain\\Domain.csproj"
+              "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\APM01-042\\Documents\\2FactorAuth\\Domain\\Domain.csproj"
               }
             }
           }
@@ -208,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

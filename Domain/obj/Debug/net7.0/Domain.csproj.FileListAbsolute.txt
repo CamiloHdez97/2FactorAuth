@@ -78,3 +78,15 @@ C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\net7.0\Domain.dll
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\net7.0\Domain.pdb
 C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\2FactorAuth\Domain\obj\Debug\net7.0\ref\Domain.dll
