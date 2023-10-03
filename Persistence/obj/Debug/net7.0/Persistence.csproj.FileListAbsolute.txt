@@ -1,0 +1,95 @@
+/home/apolM01-042/Documents/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/apolM01-042/Documents/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/apolM01-042/Documents/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/apolM01-042/Documents/NetCore/-app/Persistence/bin/Debug/net7.0/Domain.dll
+/home/apolM01-042/Documents/NetCore/-app/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/apolM01-042/Documents/NetCore/-app/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.pdb
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.deps.json
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/bin/Debug/net7.0/Persistence.pdb
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/bin/Debug/net7.0/Domain.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/bin/Debug/net7.0/Domain.pdb
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/bin/Debug/net7.0/Persistence.deps.json
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/bin/Debug/net7.0/Persistence.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/bin/Debug/net7.0/Persistence.pdb
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/bin/Debug/net7.0/Domain.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/bin/Debug/net7.0/Domain.pdb
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/Persistence.pdb
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/home/skylab-112/-app/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/skylab-112/-app/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/skylab-112/-app/Persistence/obj/Debug/net7.0/Persistence.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Persistence\obj\Debug\net7.0\ref\Persistence.dll

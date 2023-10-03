@@ -1,0 +1,80 @@
+/home/apolM01-042/Documents/NetCore/-app/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/apolM01-042/Documents/NetCore/-app/Domain/bin/Debug/net7.0/Domain.dll
+/home/apolM01-042/Documents/NetCore/-app/Domain/bin/Debug/net7.0/Domain.pdb
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.dll
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/Domain.pdb
+/home/apolM01-042/Documents/NetCore/-app/Domain/obj/Debug/net7.0/ref/Domain.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/refint/Domain.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/Domain.pdb
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/bin/Debug/net7.0/Domain.deps.json
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/bin/Debug/net7.0/Domain.dll
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/bin/Debug/net7.0/Domain.pdb
+C:/Users/Camilo Hernandez/Documents/Campus/NetCore/-app/Domain/obj/Debug/net7.0/ref/Domain.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/bin/Debug/net7.0/Domain.deps.json
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/bin/Debug/net7.0/Domain.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/bin/Debug/net7.0/Domain.pdb
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/refint/Domain.dll
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/Domain.pdb
+C:/Users/APM01-042/Documents/CamiloHdez/-app/Domain/obj/Debug/net7.0/ref/Domain.dll
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.dll
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/skylab-112/-app/Domain/obj/Debug/net7.0/Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\-app\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\APM01-042\Documents\CamiloHdez\-app\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Camilo Hernandez\Documents\Campus\NetCore\2FactorAuth\Domain\obj\Debug\net7.0\ref\Domain.dll
